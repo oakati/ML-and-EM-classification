@@ -1,6 +1,6 @@
 ## About The Project
 
-In this project, maximum likelihood estimation (MLE) and expectation maximization algorithms (EM) are applied to a dataset. Before the classification algorithms, principle component analysis (PCA) and multiple discriminant analysis (MDA) are applied to the dataset.
+This project utilizes the maximum likelihood estimation (MLE) and expectation maximization (EM) algorithms to analyze a given dataset. Prior to implementing these classification techniques, the dataset is preprocessed using principle component analysis (PCA) and multiple discriminant analysis (MDA) methods.
 
 
 ### How to run
